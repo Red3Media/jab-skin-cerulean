@@ -1,0 +1,6 @@
+---
+name: "jab-skin-cerulean"
+version: "1.0.0"
+compass:
+  - "_bootswatch.scss"
+  - "_variables.scss"
